@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Uso de comandos GitLocal">
+    <meta name="robots" content="index,follow"> 
+    <title>Uso de Git Local</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <header>
+        <h1></h1>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>Contacto</li>
+                <li>Registro</li>
+                <li>Profile</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem porro architecto molestiae aliquid ex fuga quo dolor nobis a veritatis. Sequi voluptates, fugit labore dolorum excepturi repudiandae odio cupiditate molestias.
+        </p>
+        <p>
+<<<<<<< HEAD
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos voluptatibus accusamus vitae. Voluptates id nulla quis dicta corporis. Obcaecati qui sint sed cupiditate culpa error. Vitae odit minus laboriosam numquam.
+=======
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo repudiandae explicabo ex commodi praesentium incidunt laudantium! Ratione doloribus perspiciatis consequatur dolore eos minima distinctio neque, quo sint sit natus reprehenderit.
+            <b>Juan</b>
+>>>>>>> estilos
+        </p>
+    </main>
+    <footer>
+        <p>Maquetado por Juan Manuel Jiménez Duran.</p>
+    </footer>
+</body>
+</html>
