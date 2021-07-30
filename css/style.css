@@ -11,3 +11,11 @@ html{
 body{
     font-size: 1.6rem;
 }
+
+header{
+    background-color: aquamarine;
+}
+
+li{
+    list-style: none;
+}
